@@ -1,2 +1,2 @@
 # prime-number-
- find prime number near entered number
+Kendisine en yakın asal sayıyı veren program
